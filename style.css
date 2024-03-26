@@ -38,7 +38,7 @@
 
  @font-face {
     font-family: MyFont;
-    src: url(../static/Titillium_Web/TitilliumWeb-Regular.ttf);
+    src: url(TitilliumWeb-Regular.ttf);
  }
 
  form * {
